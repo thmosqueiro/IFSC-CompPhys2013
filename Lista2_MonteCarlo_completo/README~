@@ -1,9 +1,0 @@
-In montecarlo.f file you'll find more information.
-
-
-**
-plot.gp - 
-
-This gnuplot script is expecting 2 different files: circulo_in.data
-and circulo_out.data, these should be the output of montecarlo.f
-algorithm.
